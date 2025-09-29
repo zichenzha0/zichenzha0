@@ -93,6 +93,6 @@
   
 </details>
 
-![Snake animation](https://github.com/ZhaoJackson/Jackson_Zhao_Github/blob/main/assets/jackson.svg)
+![Snake animation](https://github.com/ZhaoJackson/ZhaoJackson/blob/main/assets/jackson.svg)
 
 </p>
