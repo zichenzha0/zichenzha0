@@ -5,11 +5,13 @@
 
 <img align ="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I'm currently working on **AI/ML Projects in Mental Health @ Mount Sinai Hosptial & NYU Langone Health**
+- 🔭 I'm currently working on **AI/ML Projects in Mental Health in healthcare and professional settings**
 
 - 🌱 I'm currently learning **SQL, Python, LLMs, AI Agents, RAG for Mobile Applications**
 
-- 💬 Open for Collaboration **Python, SQL, Data Science, Langchain, NLP, Psychology**
+- 💬 Open for Collaboration **Python, SQL, Data Science, Langchain, NLP, Psychology, Neuroscience**
+
+- 🔥 **Research and Production** are my pursuit and passion in Mental Health realm.
 
 - 📫 How to reach me **zichenzhao2022@gmail.com**
 <br>
@@ -74,7 +76,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZhaoJackson&theme=highcontrast"/>
 </div>
 
-### 💻 GitHub Profile Stats
+### 💻 Languages and Achievements
 <div align="center">
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ZhaoJackson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZhaoJackson&show_icons=true&count_private=true&theme=vision-friendly-dark&border=true" height="192px"/></a>
@@ -82,7 +84,7 @@
   <br/>
 </div>
   
-### 🏆 Trophies 
+### 🏆 Accomplishments
 <div align="right">
   <br>
    <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img alt="ZhaoJackson" src="https://github-profile-trophy.vercel.app/?username=ZhaoJackson&theme=monokai&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" /></a>
