@@ -92,9 +92,6 @@
 ## 🐍 Activity Graph
 
 <p align="center">
-
-<details>
-  <summary>📊 More Activity Graphs</summary>
   
   ### 📈 Contribution Graph
   <div align="center">
