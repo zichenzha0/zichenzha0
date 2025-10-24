@@ -20,13 +20,12 @@
 <a href="https://www.linkedin.com/in/zichenzhao6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zichenzhao6" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/jacksonzhao123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zhaojackson" height="30" width="40" /></a>
 <a href="https://huggingface.co/zz3119" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="ZhaoJackson" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ZhaoJackson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ZhaoJackson" height="30" width="40" /></a>
 </p> 
 <br>
 
-<h2 align="left">🛠️ Skills in AI and Mental Health:</h2>
+<h2 align="left">🛠️ Skills and Technologies:</h2>
 
-### 💻 Programming & Technologies
+### 💻 Technical Skills
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://shiny.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
@@ -36,11 +35,6 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="icon/flask.jpeg" alt="flask" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="icon/fastapi.png" alt="fastapi" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="icon/tableau.png" alt="tableau" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="icon/powerbi.png" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a>
-  <a href="https://www.ibm.com/spss" target="_blank" rel="noreferrer"> <img src="icon/spss.jpeg" alt="spss" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="icon/excel.png" alt="excel" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
@@ -56,9 +50,25 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/> </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> <img src="https://restfulapi.net/wp-content/uploads/rest.png" alt="restapi" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/what-is/retrieval-augmented-generation/" target="_blank" rel="noreferrer"> <img src="icon/rag.jpeg" alt="rag" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="icon/streamlit.png" alt="streamlit" width="40" height="40"/> </a>
+  <a href="https://vercel.com/jackson-zhaos-projects" target="_blank" rel="noreferrer"> <img src="icon/vercel.png" alt="vercel" width="40" height="40"/> </a>
+  <a href="https://retool.com/agents" target="_blank" rel="noreferrer"> <img src="icon/retool.jpeg" alt="retool" width="40" height="40"/> </a>
+  <a href="https://docs.chainlit.io/get-started/overview" target="_blank" rel="noreferrer"> <img src="icon/chainlit.jpeg" alt="chainlit" width="40" height="40"/> </a>
+  <a href="https://roboflow.com/" target="_blank" rel="noreferrer"> <img src="icon/roboflow.png" alt="roboflow" width="40" height="40"/> </a>
 </p>
 
-### 🧠 Psychology Domain
+### 📊 Psychometrics & Statistics
+<p align="left">
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="icon/tableau.png" alt="tableau" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="icon/powerbi.png" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a>
+  <a href="https://www.ibm.com/spss" target="_blank" rel="noreferrer"> <img src="icon/spss.jpeg" alt="spss" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="icon/excel.png" alt="excel" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Analysis_of_variance" target="_blank" rel="noreferrer"> <img src="icon/anova.png" alt="anova" width="40" height="40"/> </a>
+</p>
+
+### 🧠 Psychology Domain Knowledge
 <p align="left">
   <a href="https://www.apa.org/education-career/guide/subfields/social" target="_blank" rel="noreferrer"> <img src="icon/sp.png" alt="social psychology" width="40" height="40"/> </a>
   <a href="https://www.apa.org/education-career/guide/subfields/brain-science" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/000000/brain.png" alt="cognitive psychology" width="40" height="40"/> </a>
