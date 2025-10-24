@@ -56,6 +56,7 @@
   <a href="https://retool.com/agents" target="_blank" rel="noreferrer"> <img src="icon/retool.jpeg" alt="retool" width="40" height="40"/> </a>
   <a href="https://docs.chainlit.io/get-started/overview" target="_blank" rel="noreferrer"> <img src="icon/chainlit.jpeg" alt="chainlit" width="40" height="40"/> </a>
   <a href="https://roboflow.com/" target="_blank" rel="noreferrer"> <img src="icon/roboflow.png" alt="roboflow" width="40" height="40"/> </a>
+  <a href="https://telegram.org/" target="_blank" rel="noreferrer"> <img src="icon/tg.png" alt="telegram" width="40" height="40"/> </a>
 </p>
 
 ### 📊 Psychometrics & Statistics
