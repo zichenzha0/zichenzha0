@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:141321,62:03d8f3,85:ff0055,100:fcee0c&text=J.%20Kanishkha&fontColor=f9fafb&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Multimodal%20AI%20%7C%20MLOps&descAlignY=60&descSize=18&animation=fadeIn" alt="Neon header banner for J. Kanishkha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:141321,62:03d8f3,85:ff0055,100:fcee0c&text=Jackson%20Zhao&fontColor=f9fafb&fontSize=54&fontAlignY=38&desc=Mental%20Health%20AI%20%7C%20Clinical%20Data%20Science%20%7C%20EEG%20Analytics%20%7C%20LLM%20Evaluation&descAlignY=60&descSize=18&animation=fadeIn" alt="Neon header banner for Jackson Zhao" />
 </p>
 
 <h1 align="center">
