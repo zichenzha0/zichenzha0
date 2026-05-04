@@ -189,8 +189,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhaoJackson/ZhaoJackson/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhaoJackson/ZhaoJackson/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/jackson.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/jacksonzhao.svg />
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ZhaoJackson/ZhaoJackson/output/github-snake.svg" />
   </picture>
 </p>
