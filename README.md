@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zhaojackson.github.io/Jackson_3D_Profile/" target="_blank">
+  <a href="https://zichenzha0.github.io/Jackson_3D_Profile/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-03d8f3?style=for-the-badge&logo=googlechrome&logoColor=050816" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jaxonzhao/" target="_blank">
@@ -37,8 +37,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZhaoJackson&label=Profile%20views&color=ff0055&style=plastic" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ZhaoJackson?style=plastic&logo=github&label=Followers&color=03d8f3&logoColor=050816" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=zichenzha0&label=Profile%20views&color=ff0055&style=plastic" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/zichenzha0?style=plastic&logo=github&label=Followers&color=03d8f3&logoColor=050816" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Location-New%20York-fcee0c?style=plastic&logo=googlemaps&logoColor=050816" alt="Location New York" />
   <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20and%20MLOps-00ffc8?style=plastic&logoColor=050816" alt="Focus on LLM Systems and MLOps" />
 </p>
@@ -74,21 +74,21 @@
 
 ### AI For Mental Health And Evaluation
 
-- [`PsyChat`](https://github.com/ZhaoJackson/PsyChat): Clinical-trial-oriented mental health chatbot evaluation app for multi-turn AI response benchmarking
-- [`Text-Reference-AIChatbot`](https://github.com/ZhaoJackson/Text-Reference-AIChatbot): AI chatbot evaluation benchmark for mental health and suicide prevention using ethical alignment, inclusivity, sentiment, and text-similarity metrics
-- [`Human_VS_AI_Game`](https://github.com/ZhaoJackson/Human_VS_AI_Game): Interactive Turing Test-style game for comparing human and AI-generated mental health responses
+- [`PsyChat`](https://github.com/zichenzha0/PsyChat): Clinical-trial-oriented mental health chatbot evaluation app for multi-turn AI response benchmarking
+- [`Text-Reference-AIChatbot`](https://github.com/zichenzha0/Text-Reference-AIChatbot): AI chatbot evaluation benchmark for mental health and suicide prevention using ethical alignment, inclusivity, sentiment, and text-similarity metrics
+- [`Human_VS_AI_Game`](https://github.com/zichenzha0/Human_VS_AI_Game): Interactive Turing Test-style game for comparing human and AI-generated mental health responses
 
 ### Clinical, Behavioral, And Multimodal AI
 
-- [`MBTI_Mental_Health`](https://github.com/ZhaoJackson/MBTI_Mental_Health): Mental health analysis project using machine learning and Bayesian tuning
-- [`Air_Gesture_Plane_Game`](https://github.com/ZhaoJackson/Air_Gesture_Plane_Game): Computer vision gesture-controlled games using MediaPipe and OpenCV
-- [`OCR_Text_Extractor`](https://github.com/ZhaoJackson/OCR_Text_Extractor): OCR-based text extraction web app using React, Ant Design, n8n, and optional Node/Express API
+- [`MBTI_Mental_Health`](https://github.com/zichenzha0/MBTI_Mental_Health): Mental health analysis project using machine learning and Bayesian tuning
+- [`Air_Gesture_Plane_Game`](https://github.com/zichenzha0/Air_Gesture_Plane_Game): Computer vision gesture-controlled games using MediaPipe and OpenCV
+- [`OCR_Text_Extractor`](https://github.com/zichenzha0/OCR_Text_Extractor): OCR-based text extraction web app using React, Ant Design, n8n, and optional Node/Express API
 
 ### LLM, Automation, And Applied Products
 
-- [`News_Operator`](https://github.com/ZhaoJackson/News_Operator): Chainlit + Llama3 workflow for fetching updated web information and generating blog-style summaries
-- [`ZhaoJackson`](https://github.com/ZhaoJackson/ZhaoJackson): Personal GitHub profile and technical portfolio
-- [`Jackson_3D_Profile`](https://github.com/ZhaoJackson/Jackson_3D_Profile): Personal 3D profile website and portfolio experience
+- [`News_Operator`](https://github.com/zichenzha0/News_Operator): Chainlit + Llama3 workflow for fetching updated web information and generating blog-style summaries
+- [`zichenzha0`](https://github.com/zichenzha0/zichenzha0): Personal GitHub profile and technical portfolio
+- [`Jackson_3D_Profile`](https://github.com/zichenzha0/Jackson_3D_Profile): Personal 3D profile website and portfolio experience
 
 ## Technical Stack ⚡
 
@@ -177,21 +177,21 @@
 ## GitHub Signals 📊
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZhaoJackson&theme=2077" width="49%" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZhaoJackson&theme=2077" width="49%" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zichenzha0&theme=2077" width="49%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zichenzha0&theme=2077" width="49%" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZhaoJackson&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=zichenzha0&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
 </p>
 
 ## Contribution Snake 🐍
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZhaoJackson/ZhaoJackson/blob/output/github-snake-dark.svg?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZhaoJackson/ZhaoJackson/blob/output/github-snake.svg?raw=true" />
-    <img alt="GitHub contribution snake animation" src="https://github.com/ZhaoJackson/ZhaoJackson/blob/output/github-snake.svg?raw=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zichenzha0/zichenzha0/blob/output/github-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/zichenzha0/zichenzha0/blob/output/github-snake.svg?raw=true" />
+    <img alt="GitHub contribution snake animation" src="https://github.com/zichenzha0/zichenzha0/blob/output/github-snake.svg?raw=true" />
   </picture>
 </p>
 
