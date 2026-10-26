@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050b1f,40:0b2a5b,75:1d4ed8,100:38bdf8&text=Jackson%20Zhao&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=DawnTale%20%C2%B7%20AI%20%C3%97%20BCI%20%C3%97%20EEG%20%C2%B7%20Community&descAlignY=58&descSize=18&animation=fadeIn" alt="Jackson Zhao — DawnTale · AI × BCI × EEG · Community" />
+  <img src="./assets/hud-header.svg" width="100%" alt="Jackson Zhao — DawnTale · Personal AI × BCI × EEG × Community" />
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38bdf8,25:1d4ed8,60:0b2a5b,100:050b1f&text=Just%20Keep%20Running&fontColor=ffffff&fontSize=22&fontAlignY=68" alt="Just Keep Running" />
+  <img src="./assets/hud-footer.svg" width="100%" alt="Just Keep Running" />
 </p>
