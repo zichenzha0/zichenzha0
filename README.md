@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1026,40:3b2f7a,75:ff7a59,100:ffd166&text=Jackson%20Zhao&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=DawnTale%20%C2%B7%20AI%20%C3%97%20BCI%20%C3%97%20EEG%20%C2%B7%20Community&descAlignY=58&descSize=18&animation=fadeIn" alt="Jackson Zhao — DawnTale · AI × BCI × EEG · Community" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050b1f,40:0b2a5b,75:1d4ed8,100:38bdf8&text=Jackson%20Zhao&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=DawnTale%20%C2%B7%20AI%20%C3%97%20BCI%20%C3%97%20EEG%20%C2%B7%20Community&descAlignY=58&descSize=18&animation=fadeIn" alt="Jackson Zhao — DawnTale · AI × BCI × EEG · Community" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=FF9F68&center=true&vCenter=true&width=620&lines=Building+DawnTale+%E2%80%94+a+personal+AI+shaped+by+its+user;Next%3A+AI+%C3%97+BCI+%C3%97+EEG;Building+in+public+with+DawnLog+%26+DawnCom;Just+Keep+Running" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=Building+DawnTale+%E2%80%94+a+personal+AI+shaped+by+its+user;Next%3A+AI+%C3%97+BCI+%C3%97+EEG;Building+in+public+with+DawnLog+%26+DawnCom;Just+Keep+Running" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://jaxonzhao.com"><img src="https://img.shields.io/badge/Profile-jaxonzhao.com-ffd166?style=for-the-badge&labelColor=0b1026" alt="Profile" /></a>
-  <a href="https://dawntale.app"><img src="https://img.shields.io/badge/DawnTale-dawntale.app-ff7a59?style=for-the-badge&labelColor=0b1026" alt="DawnTale" /></a>
-  <a href="https://www.youtube.com/@dawntalex"><img src="https://img.shields.io/badge/YouTube-@dawntalex-ff0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0b1026" alt="YouTube" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/609b78c3000000000101d301"><img src="https://img.shields.io/badge/Xiaohongshu-Jackson__Zhao-ff2442?style=for-the-badge&logo=xiaohongshu&logoColor=white&labelColor=0b1026" alt="Xiaohongshu" /></a>
-  <a href="https://www.linkedin.com/in/jaxonzhao/"><img src="https://img.shields.io/badge/LinkedIn-jaxonzhao-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1026" alt="LinkedIn" /></a>
+  <a href="https://jaxonzhao.com"><img src="https://img.shields.io/badge/Profile-jaxonzhao.com-38bdf8?style=for-the-badge&labelColor=0a1630" alt="Profile" /></a>
+  <a href="https://dawntale.app"><img src="https://img.shields.io/badge/DawnTale-dawntale.app-3b82f6?style=for-the-badge&labelColor=0a1630" alt="DawnTale" /></a>
+  <a href="https://www.youtube.com/@dawntalex"><img src="https://img.shields.io/badge/YouTube-@dawntalex-2563eb?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a1630" alt="YouTube" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/609b78c3000000000101d301"><img src="https://img.shields.io/badge/Xiaohongshu-Jackson__Zhao-1d4ed8?style=for-the-badge&logo=xiaohongshu&logoColor=white&labelColor=0a1630" alt="Xiaohongshu" /></a>
+  <a href="https://www.linkedin.com/in/zichenzha0/"><img src="https://img.shields.io/badge/LinkedIn-zichenzha0-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1630" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -56,21 +56,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zichenzha0&hide_border=true&background=0B1026&stroke=3B2F7A&ring=FF7A59&fire=FFD166&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD166&sideLabels=FF9F68&dates=9CA3AF" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=zichenzha0&hide_border=true&background=050B1F&stroke=1E3A8A&ring=3B82F6&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7DD3FC&sideLabels=60A5FA&dates=9CA3AF" alt="GitHub streak" />
 </p>
-
-<!--LIVE-ACTIVITY:START-->
-| | Repo | Latest commit | When |
-|:-:|:--|:--|--:|
-| ⚪ | [machine-driven-evaluation](https://github.com/zichenzha0/machine-driven-evaluation) | [Fix topic-set scoring, asymmetric sentence-level similari…](https://github.com/zichenzha0/machine-driven-evaluation/commit/16817b1b0f82daea4b6e686bb450d8b4d97e627c) | 33 days ago |
-| ⚪ | [offerproof](https://github.com/zichenzha0/offerproof) | [Fix the blank dashboard by installing react-router in the…](https://github.com/zichenzha0/offerproof/commit/ce8b05ad2b272bee6675bee12ce1e5ef441c0001) | 36 days ago |
-| ⚪ | [offerproof](https://github.com/zichenzha0/offerproof) | [Add HIRETRUSTHACKTHON source so the original dashboard li…](https://github.com/zichenzha0/offerproof/commit/00e91f4782d9fd630f8f0c6ed8337b30bb35ff68) | 36 days ago |
-| ⚪ | [offerproof](https://github.com/zichenzha0/offerproof) | [commit](https://github.com/zichenzha0/offerproof/commit/2bad73cede35c2128920e548943f166998a4b5ba) | 37 days ago |
-| ⚪ | [offerproof](https://github.com/zichenzha0/offerproof) | [Initial commit](https://github.com/zichenzha0/offerproof/commit/66861feea7f0978df059a82b288ffe546ff97527) | 37 days ago |
-| ⚪ | [tech_universe](https://github.com/zichenzha0/tech_universe) | [commit](https://github.com/zichenzha0/tech_universe/commit/5bafb0b040166587ea389c98f52e52c398bc18f3) | 131 days ago |
-
-<p align="center"><sub>📈 <b>1</b> contributions this week · <b>46</b> in the past year · 🔄 auto-synced Oct 26, 3:57 PM ET</sub></p>
-<!--LIVE-ACTIVITY:END-->
 
 <p align="center">
   <picture>
@@ -81,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ffd166,25:ff7a59,60:3b2f7a,100:0b1026&text=Just%20Keep%20Running&fontColor=ffffff&fontSize=22&fontAlignY=68" alt="Just Keep Running" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38bdf8,25:1d4ed8,60:0b2a5b,100:050b1f&text=Just%20Keep%20Running&fontColor=ffffff&fontSize=22&fontAlignY=68" alt="Just Keep Running" />
 </p>
