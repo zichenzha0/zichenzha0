@@ -1,200 +1,85 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:141321,62:03d8f3,85:ff0055,100:fcee0c&text=Jackson%20Zhao&fontColor=f9fafb&fontSize=54&fontAlignY=38&desc=Mental%20Health%20AI%20%7C%20Clinical%20Data%20Science%20%7C%20EEG%20Analytics%20%7C%20LLM%20Evaluation&descAlignY=60&descSize=18&animation=fadeIn" alt="Neon header banner for Jackson Zhao" />
-</p>
-
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Waving hand" />, I'm Jackson Zhao
-</h1>
-
-<p align="center">
-  <strong>Data Scientist @ Mount Sinai</strong> · <strong>Quantitative Methods @ Columbia University</strong> · <strong>MLE @ NYULangone</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1026,40:3b2f7a,75:ff7a59,100:ffd166&text=Jackson%20Zhao&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=DawnTale%20%C2%B7%20AI%20%C3%97%20BCI%20%C3%97%20EEG%20%C2%B7%20Community&descAlignY=58&descSize=18&animation=fadeIn" alt="Jackson Zhao — DawnTale · AI × BCI × EEG · Community" />
 </p>
 
 <p align="center">
-  Researcher and Builder in Mental Health AI, Clinical Data Science, and Human-Centered ML.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=FF9F68&center=true&vCenter=true&width=620&lines=Building+DawnTale+%E2%80%94+a+personal+AI+shaped+by+its+user;Next%3A+AI+%C3%97+BCI+%C3%97+EEG;Building+in+public+with+DawnLog+%26+DawnCom;Just+Keep+Running" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="430" alt="Animated coding workspace" />
+  I'm building <b>晨述 DawnTale</b> — one person's story, a daily rhythm, and an AI that learns from both.<br/>
+  Next I'm taking it toward <b>AI × BCI × EEG</b>, and building it in public with a community.
 </p>
 
 <p align="center">
-  <a href="https://zichenzha0.github.io/Jackson_3D_Profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-03d8f3?style=for-the-badge&logo=googlechrome&logoColor=050816" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaxonzhao/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://huggingface.co/zz3119" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-fcee0c?style=for-the-badge&logo=huggingface&logoColor=050816" alt="Hugging Face" />
-  </a>
-  <a href="https://www.kaggle.com/jacksonzhao123" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=050816" alt="Kaggle" />
-  </a>
-  <a href="mailto:zichenzhao2022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://jaxonzhao.com"><img src="https://img.shields.io/badge/Profile-jaxonzhao.com-ffd166?style=for-the-badge&labelColor=0b1026" alt="Profile" /></a>
+  <a href="https://dawntale.app"><img src="https://img.shields.io/badge/DawnTale-dawntale.app-ff7a59?style=for-the-badge&labelColor=0b1026" alt="DawnTale" /></a>
+  <a href="https://www.youtube.com/@dawntalex"><img src="https://img.shields.io/badge/YouTube-@dawntalex-ff0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0b1026" alt="YouTube" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/609b78c3000000000101d301"><img src="https://img.shields.io/badge/Xiaohongshu-Jackson__Zhao-ff2442?style=for-the-badge&logo=xiaohongshu&logoColor=white&labelColor=0b1026" alt="Xiaohongshu" /></a>
+  <a href="https://www.linkedin.com/in/jaxonzhao/"><img src="https://img.shields.io/badge/LinkedIn-jaxonzhao-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1026" alt="LinkedIn" /></a>
+</p>
+
+---
+
+### 🌅 What I'm building
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>晨述 · DawnTale</h4>
+      A personal AI that fits one life — daily rhythm, reflections, plans — built widget by widget for desktop and phone. Your data stays yours.<br/><br/>
+      <a href="https://dawntale.app"><b>dawntale.app →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>AI × BCI × EEG</h4>
+      The next chapter: real-time EEG and brain–computer interfaces as a new input for personal AI — from brain signals to everyday tools.<br/><br/>
+      <a href="https://jaxonzhao.com"><b>follow along →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>DawnLog · DawnCom</h4>
+      Building in public: decision logs on what broke and how I fixed it, plus a community to talk AI and join events.<br/><br/>
+      <a href="https://log.dawntale.app"><b>log</b></a> · <a href="https://community.dawntale.app"><b>community →</b></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,postgres,pytorch,vercel,cloudflare&theme=dark" alt="Python, TypeScript, React, Next.js, Node, Postgres, PyTorch, Vercel, Cloudflare" />
+</p>
+
+---
+
+### ⚡ Live on GitHub
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph (auto-updated)" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zichenzha0&label=Profile%20views&color=ff0055&style=plastic" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zichenzha0?style=plastic&logo=github&label=Followers&color=03d8f3&logoColor=050816" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Location-New%20York-fcee0c?style=plastic&logo=googlemaps&logoColor=050816" alt="Location New York" />
-  <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20and%20MLOps-00ffc8?style=plastic&logoColor=050816" alt="Focus on LLM Systems and MLOps" />
+  <img src="https://streak-stats.demolab.com?user=zichenzha0&hide_border=true&background=0B1026&stroke=3B2F7A&ring=FF7A59&fire=FFD166&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD166&sideLabels=FF9F68&dates=9CA3AF" alt="GitHub streak" />
 </p>
 
-## What I Build 🛠️
+<!--LIVE-ACTIVITY:START-->
+| | Repo | Latest commit | When |
+|:-:|:--|:--|--:|
+| ⚪ | [machine-driven-evaluation](https://github.com/zichenzha0/machine-driven-evaluation) | [Fix topic-set scoring, asymmetric sentence-level similari…](https://github.com/zichenzha0/machine-driven-evaluation/commit/16817b1b0f82daea4b6e686bb450d8b4d97e627c) | 33 days ago |
+| ⚪ | [offerproof](https://github.com/zichenzha0/offerproof) | [Fix the blank dashboard by installing react-router in the…](https://github.com/zichenzha0/offerproof/commit/ce8b05ad2b272bee6675bee12ce1e5ef441c0001) | 36 days ago |
+| ⚪ | [offerproof](https://github.com/zichenzha0/offerproof) | [Add HIRETRUSTHACKTHON source so the original dashboard li…](https://github.com/zichenzha0/offerproof/commit/00e91f4782d9fd630f8f0c6ed8337b30bb35ff68) | 36 days ago |
+| ⚪ | [offerproof](https://github.com/zichenzha0/offerproof) | [commit](https://github.com/zichenzha0/offerproof/commit/2bad73cede35c2128920e548943f166998a4b5ba) | 37 days ago |
+| ⚪ | [offerproof](https://github.com/zichenzha0/offerproof) | [Initial commit](https://github.com/zichenzha0/offerproof/commit/66861feea7f0978df059a82b288ffe546ff97527) | 37 days ago |
+| ⚪ | [tech_universe](https://github.com/zichenzha0/tech_universe) | [commit](https://github.com/zichenzha0/tech_universe/commit/5bafb0b040166587ea389c98f52e52c398bc18f3) | 131 days ago |
 
-- **AI systems for mental health:** chatbot evaluation, safety benchmarking, crisis-response assessment, and human-centered AI tools
-- **Clinical and neuroscience AI:** EEG pipelines, synthetic data benchmarking, behavioral signal processing, and mental-state modeling
-- **Applied data products:** Streamlit dashboards, research automation, public-health analytics, and decision-support tools
-- **LLM and agent workflows:** RAG, LangChain/Ollama systems, prompt orchestration, evaluation pipelines, and production-facing AI applications
-- **Multimodal and interaction systems:** computer vision, gesture-based applications, OCR workflows, and interactive AI experiences
-
-## Current Focus 🎯
-
-- Building AI systems for mental health, neuroscience, and high-stakes social impact settings
-- Developing benchmark pipelines to evaluate LLM responses for safety, inclusivity, crisis alignment, and readability
-- Working on EEG and clinical-data pipelines for addiction, mental state analysis, and synthetic data evaluation
-- Translating research workflows into deployable tools using Python, Streamlit, FastAPI, LangChain, and cloud platforms
-- Exploring AI agents, RAG, multimodal applications, and human-centered product design across healthcare and public-sector use cases
-
-## Ask Me About 💬
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mental%20Health%20AI-03d8f3?style=plastic&logoColor=050816" alt="Mental Health AI" />
-  <img src="https://img.shields.io/badge/Chatbot%20Evaluation-00ffc8?style=plastic&logoColor=050816" alt="Chatbot Evaluation" />
-  <img src="https://img.shields.io/badge/LLM%20Safety-fcee0c?style=plastic&logoColor=050816" alt="LLM Safety" />
-  <img src="https://img.shields.io/badge/EEG%20Analytics-ff8a00?style=plastic&logoColor=050816" alt="EEG Analytics" />
-  <img src="https://img.shields.io/badge/Clinical%20Data%20Science-ff0055?style=plastic&logoColor=white" alt="Clinical Data Science" />
-  <img src="https://img.shields.io/badge/RAG%20%26%20Agents-22d3ee?style=plastic&logoColor=050816" alt="RAG and Agents" />
-</p>
-
-## Featured Projects 🚀
-
-### AI For Mental Health And Evaluation
-
-- [`PsyChat`](https://github.com/zichenzha0/PsyChat): Clinical-trial-oriented mental health chatbot evaluation app for multi-turn AI response benchmarking
-- [`Text-Reference-AIChatbot`](https://github.com/zichenzha0/Text-Reference-AIChatbot): AI chatbot evaluation benchmark for mental health and suicide prevention using ethical alignment, inclusivity, sentiment, and text-similarity metrics
-- [`Human_VS_AI_Game`](https://github.com/zichenzha0/Human_VS_AI_Game): Interactive Turing Test-style game for comparing human and AI-generated mental health responses
-
-### Clinical, Behavioral, And Multimodal AI
-
-- [`MBTI_Mental_Health`](https://github.com/zichenzha0/MBTI_Mental_Health): Mental health analysis project using machine learning and Bayesian tuning
-- [`Air_Gesture_Plane_Game`](https://github.com/zichenzha0/Air_Gesture_Plane_Game): Computer vision gesture-controlled games using MediaPipe and OpenCV
-- [`OCR_Text_Extractor`](https://github.com/zichenzha0/OCR_Text_Extractor): OCR-based text extraction web app using React, Ant Design, n8n, and optional Node/Express API
-
-### LLM, Automation, And Applied Products
-
-- [`News_Operator`](https://github.com/zichenzha0/News_Operator): Chainlit + Llama3 workflow for fetching updated web information and generating blog-style summaries
-- [`zichenzha0`](https://github.com/zichenzha0/zichenzha0): Personal GitHub profile and technical portfolio
-- [`Jackson_3D_Profile`](https://github.com/zichenzha0/Jackson_3D_Profile): Personal 3D profile website and portfolio experience
-
-## Technical Stack ⚡
-
-**Languages And Frameworks**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-03d8f3?style=plastic&logoColor=050816" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=050816" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=050816" alt="React" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/FastAPI-00a98f?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Chainlit-ff0055?style=plastic&logoColor=white" alt="Chainlit" />
-</p>
-
-**ML, AI, And NLP**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=050816" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-fcee0c?style=plastic&logo=huggingface&logoColor=050816" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-00ffc8?style=plastic&logoColor=050816" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=plastic&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/RAG-03d8f3?style=plastic&logoColor=050816" alt="RAG" />
-  <img src="https://img.shields.io/badge/NLP-ff8a00?style=plastic&logoColor=050816" alt="NLP" />
-  <img src="https://img.shields.io/badge/Sentiment%20Analysis-ff0055?style=plastic&logoColor=white" alt="Sentiment Analysis" />
-  <img src="https://img.shields.io/badge/Chatbot%20Benchmarking-22d3ee?style=plastic&logoColor=050816" alt="Chatbot Benchmarking" />
-</p>
-
-**Clinical, Neuroscience, And Data Science**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/EEG%20Processing-03d8f3?style=plastic&logoColor=050816" alt="EEG Processing" />
-  <img src="https://img.shields.io/badge/Mental%20Health%20Data-00ffc8?style=plastic&logoColor=050816" alt="Mental Health Data" />
-  <img src="https://img.shields.io/badge/Synthetic%20Data-fcee0c?style=plastic&logoColor=050816" alt="Synthetic Data" />
-  <img src="https://img.shields.io/badge/Psychometrics-ff8a00?style=plastic&logoColor=050816" alt="Psychometrics" />
-  <img src="https://img.shields.io/badge/Public%20Health%20Analytics-ff0055?style=plastic&logoColor=white" alt="Public Health Analytics" />
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-22d3ee?style=plastic&logoColor=050816" alt="Statistical Modeling" />
-</p>
-
-**MLOps, Cloud, And Deployment**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonwebservices&logoColor=050816" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/MLflow-00ffc8?style=plastic&logoColor=050816" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=plastic&logo=streamlit&logoColor=white" alt="Streamlit Cloud" />
-</p>
-
-**Data, Automation, And Interaction Systems**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-03d8f3?style=plastic&logoColor=050816" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=plastic&logo=telegram&logoColor=white" alt="Telegram Bot" />
-  <img src="https://img.shields.io/badge/REST%20API-ff0055?style=plastic&logoColor=white" alt="REST API" />
-</p>
-
-## Signal Board ✨
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Build%20Mode-Research%20to%20Production-03d8f3?style=plastic&logoColor=050816" alt="Research to production" />
-  <img src="https://img.shields.io/badge/Primary%20Themes-Mental%20Health%20AI%20%7C%20EEG%20%7C%20LLM%20Evaluation-fcee0c?style=plastic&logoColor=050816" alt="Primary themes" />
-  <img src="https://img.shields.io/badge/Open%20to-Clinical%20AI%20%7C%20Research%20Collaboration%20%7C%20Applied%20ML-ff0055?style=plastic&logoColor=white" alt="Open to collaboration and applied ML" />
-</p>
-
-## 3D Activity 🌌
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution landscape" />
-</p>
-
-## GitHub Signals 📊
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zichenzha0&theme=2077" width="49%" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zichenzha0&theme=2077" width="49%" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zichenzha0&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
-</p>
-
-## Contribution Snake 🐍
+<p align="center"><sub>🔄 auto-synced Oct 26, 3:56 PM ET</sub></p>
+<!--LIVE-ACTIVITY:END-->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zichenzha0/zichenzha0/blob/output/github-snake-dark.svg?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/zichenzha0/zichenzha0/blob/output/github-snake.svg?raw=true" />
-    <img alt="GitHub contribution snake animation" src="https://github.com/zichenzha0/zichenzha0/blob/output/github-snake.svg?raw=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zichenzha0/zichenzha0/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zichenzha0/zichenzha0/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/zichenzha0/zichenzha0/output/github-snake.svg" />
   </picture>
 </p>
 
 <p align="center">
-  If you're building AI for mental health, neuroscience, clinical data systems, or high-stakes human-centered applications, let's connect.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ffd166,25:ff7a59,60:3b2f7a,100:0b1026&text=Just%20Keep%20Running&fontColor=ffffff&fontSize=22&fontAlignY=68" alt="Just Keep Running" />
 </p>
